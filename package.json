@@ -2,7 +2,7 @@
   "name": "tetsingexpres",
   "version": "1.0.0",
   "scripts": {
-    "start": "node public/index.js",
+    "start": "node ./public/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
