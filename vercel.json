@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
         {
-            "src": "./publiccc/index.js",
+            "src": "/publiccc/index.js",
             "use": "@vercel/node"
         }
     ],
