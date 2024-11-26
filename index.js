@@ -8,6 +8,6 @@ const app = (0, express_1.default)();
 app.use('/', (req, res) => {
     res.json({ message: 'Welcome to URSTYLE Backend API' });
 });
-app.listen('2000', () => {
+app.listen('3000', () => {
     console.log("dfcgvhbjnkmememmem");
 });
