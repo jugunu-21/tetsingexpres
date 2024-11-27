@@ -6,8 +6,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const app = (0, express_1.default)();
 app.use('/', (req, res) => {
-    res.json({ message: 'Welcome to URSTYLE Backend API for uu uuudfghvbj' });
+    res.json({ message: 'Welcome to URSTYLE Backend API for uu uuudfghvbj uinn me ' });
 });
-app.listen('3000', () => {
+app.listen('1000', () => {
     console.log("dfcgvhbjnkmememmem");
 });
